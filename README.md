@@ -19,7 +19,7 @@ Start the MongoDB server by running: ```docker-compose up -d```.
 
 # Start the NestJS Microservice:
 
-Navigate to the NestJS microservice directory by running: cd Server/phone-number-generator.
+Navigate to the NestJS microservice directory by running: ```cd Server/phone-number-validator-microservice```
 Install Dependencies run: ```npm install```
 Start the microservice with: ```npm start```.
 
